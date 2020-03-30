@@ -27,7 +27,7 @@
 - AWS
 
 
-# Sprint 1:
+# Sprint 1: 
 
 ## Taskboard:
 
