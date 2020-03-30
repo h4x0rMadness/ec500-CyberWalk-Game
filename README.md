@@ -1,1 +1,1 @@
-# EC500_Triangle
+# EC500_TriangleProject
