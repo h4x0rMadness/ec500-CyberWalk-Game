@@ -19,3 +19,9 @@
 
 - **AR**
   - When users start their camera and point to the open area, the architecture will display here by AR.
+
+## Tech: 
+- Object Detection
+- Augmented Reality, Unity
+- Swift, C#, Python
+- AWS
