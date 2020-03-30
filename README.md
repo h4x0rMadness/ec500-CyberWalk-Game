@@ -32,7 +32,7 @@
 ## Taskboard:
 
 - Determine details of the game 
-- Realize basic (level 1) reward architecture
+- Display basic (level 1) reward architecture
 - Connect Object Detection
 - Have at least one sample conversion from acquired object to materials
 - \*Login/logout
