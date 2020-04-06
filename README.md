@@ -36,3 +36,12 @@
 - Connect Object Detection
 - Have at least one sample conversion from acquired object to materials
 - \*Login/logout
+
+# Sprint 2:
+
+## Taskboard:
+
+- Deployment on iOS
+- Other pages in app
+- Connect with Object Detection 
+- \*Server Configuration
