@@ -1,5 +1,10 @@
 # EC500_TriangleProject
 
+## Introduction to the Game:
+
+We would like to explore the possiblity combining **Augmented Reality** (AR) and **Object Detection** technologies and present them with a game, which encourages players to go outside (certainly not now, stay home!), explore certain **targets** as symbols to acquire **materials** from. 
+
+With those materials (e.g. metal, wood and so on), players are able to upgrade their **reward**, which is a product displayed in AR way (which is really cool to show friends, right?) and owned by each user. For example, with upgrading, you can upgrade your little wood house into a huge spectacular castle, also we hope we have enough time to finish social functions, which allows people to check on their friends' rewards.
 
 ## User Story:
 - As a **game player**, I want to combine online games with real life. I not only can play games on the phone, but also can take physical activities outside.
