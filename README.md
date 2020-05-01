@@ -6,6 +6,17 @@ We would like to explore the possiblity combining **Augmented Reality** (AR) and
 
 With those materials (e.g. metal, wood and so on), players are able to upgrade their **reward**, which is a product displayed in AR way (which is really cool to show friends, right?) and owned by each user. For example, with upgrading, you can upgrade your little wood house into a huge spectacular castle, also we hope we have enough time to finish social functions, which allows people to check on their friends' rewards.
 
+
+# Final Product 
+
+<p align="center">
+    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/demo.gif" width="40%"/>
+</p>
+<p align="center">
+    This is iOS Version
+</p>
+
+
 ## User Story:
 - As a **game player**, I want to combine online games with real life. I not only can play games on the phone, but also can take physical activities outside.
 - As a **sponsor**, I want to display my product in game to attract more customers.
