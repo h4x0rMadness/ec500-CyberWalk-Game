@@ -1,5 +1,22 @@
 # EC500_TriangleProject
 
+## Usage
+
+### CyberWalk iOS version
+
+```
+git clone https://github.com/h4x0rMadness/EC500_Triangle.git
+```
+unzip this repo folder and go into /CyberWalk sub folder in it.
+
+```
+cd CyberWalk
+```
+
+open the CyberWalk.xcodeproj in Xcode
+
+build and run it on your iOS device (won't work for simulator)
+
 ## Introduction to the Game:
 
 We would like to explore the possiblity combining **Augmented Reality** (AR) and **Object Detection** technologies and present them with a game, which encourages players to go outside (certainly not now, stay home!), explore certain **targets** as symbols to acquire **materials** from. 
