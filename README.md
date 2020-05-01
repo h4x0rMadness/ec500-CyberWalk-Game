@@ -15,6 +15,10 @@ cd CyberWalk
 
 open the CyberWalk.xcodeproj in Xcode
 
+<p align="center">
+    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/icon.jpg" width="20%"/>
+</p>
+
 build and run it on your iOS device (won't work for simulator)
 
 ## Introduction to the Game:
