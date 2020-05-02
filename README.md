@@ -9,25 +9,28 @@
 ```
 git clone https://github.com/h4x0rMadness/EC500_Triangle.git
 ```
-unzip this repo folder and go into /CyberWalk sub folder in it.
+unzip this repo folder and go into `/CyberWalk` sub folder in it.
 
 ```
 cd CyberWalk
 ```
 
-open the CyberWalk.xcodeproj in Xcode
+open the `CyberWalk.xcodeproj` in `Xcode`
 
 <p align="center">
     <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/icon.jpg" width="20%"/>
 </p>
 
-build and run it on your iOS device (won't work for simulator)
+build and run it on your `iOS` device (won't work for `simulator`)
 
-## Introduction to the Game:
+## Introduction to the Game
 
 We would like to explore the possiblity combining **Augmented Reality** (AR) and **Object Detection** technologies and present them with a game, which encourages players to go outside (certainly not now, stay home!), explore certain **targets** as symbols to acquire **materials** from. 
 
 With those materials (e.g. metal, wood and so on), players are able to upgrade their **reward**, which is a product displayed in AR way (which is really cool to show friends, right?) and owned by each user. For example, with upgrading, you can upgrade your little wood house into a huge spectacular castle, also we hope we have enough time to finish social functions, which allows people to check on their friends' rewards.
+
+## Game Logic
+
 
 
 # Final Product 
@@ -46,14 +49,15 @@ With those materials (e.g. metal, wood and so on), players are able to upgrade t
     This is Android Version
 </p>
 
-## User Story:
+## User Story
 - As a **game player**, I want to combine online games with real life. I not only can play games on the phone, but also can take physical activities outside.
 - As a **sponsor**, I want to display my product in game to attract more customers.
 
 
 
 
-## Minimum Valuable Product: 
+## Minimum Valuable Product
+
 
 - **Object Detection**
 
