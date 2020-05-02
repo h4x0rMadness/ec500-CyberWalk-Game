@@ -38,7 +38,9 @@ in the path **/EC500_Triangle/CyberWalk_Android/NativeAndroidApp**.
 
 Connect your android phone with computer, and run this application to download apk in your phone
 
+#### check release 
 
+https://github.com/CyberWalkec500/objectdetection/releases
 
 ## Introduction to the Game
 
