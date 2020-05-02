@@ -26,6 +26,20 @@ open the `CyberWalk.xcodeproj` in `Xcode`
 
 build and run it on your `iOS` device (won't work for `simulator`)
 
+
+### CyberWalk Android version
+
+```
+git clone https://github.com/h4x0rMadness/EC500_Triangle.git
+```
+Then use Android Studio and open the **NativeAndroidApp** 
+
+in the path **/EC500_Triangle/CyberWalk_Android/NativeAndroidApp**.
+
+Connect your android phone with computer, and run this application to download apk in your phone
+
+
+
 ## Introduction to the Game
 
 We would like to explore the possiblity combining **Augmented Reality** (AR) and **Object Detection** technologies and present them with a game, which encourages players to go outside (certainly not now, stay home!), explore certain **targets** as symbols to acquire **materials** from. 
@@ -37,6 +51,13 @@ With those materials (e.g. metal, wood and so on), players are able to upgrade t
 <p align="center">
     <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/archi.jpg" width="70%"/>
 </p>
+
+- Step 1:   Scan the object and then get the materials from this object
+- Step 2:   View the materials collected
+- Step 3:   Use materials to build architecture or Upgrade the current architecture.
+- Step 4:   View the current architecture in the form of virtual image
+- Step 5:   View the current architecture in the form of AR.
+
 
 # Final Product 
 
