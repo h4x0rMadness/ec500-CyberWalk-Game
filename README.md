@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/下载.png" width="100%"/>
+</p>
 
 
 # EC500_TriangleProject
