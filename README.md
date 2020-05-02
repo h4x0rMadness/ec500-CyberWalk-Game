@@ -1,3 +1,5 @@
+
+
 # EC500_TriangleProject
 
 ## Usage
@@ -74,17 +76,25 @@ With those materials (e.g. metal, wood and so on), players are able to upgrade t
 
 ## Taskboard:
 
-- Determine details of the game 
-- Display basic (level 1) reward architecture
-- Connect Object Detection
-- Have at least one sample conversion from acquired object to materials
-- \*Login/logout
+- [x] Determine details of the game 
+- [x] Display basic (level 1) reward architecture
+- [ ] Connect Object Detection
+- [x] Have at least one sample conversion from acquired object to materials
+- [ ] \*Login/logout
 
 # Sprint 2:
 
 ## Taskboard:
 
-- Deployment on iOS
-- Other pages in app
-- Connect with Object Detection 
-- \*Server Configuration
+- [ ] Deployment on iOS
+- [x] Other pages in app
+- [x] Connect with Object Detection 
+- [ ] \*Server Configuration
+
+# Sprint 3:
+
+## Taskboard:
+
+- [x] Create iOS and Android Profile Page
+- [x] Realize iOS and Android object detection
+- [x] Display Reward architecture in AR way
