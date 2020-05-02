@@ -37,6 +37,12 @@ With those materials (e.g. metal, wood and so on), players are able to upgrade t
     This is iOS Version
 </p>
 
+<p align="center">
+    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/demo_a.gif" width="40%"/>
+</p>
+<p align="center">
+    This is Android Version
+</p>
 
 ## User Story:
 - As a **game player**, I want to combine online games with real life. I not only can play games on the phone, but also can take physical activities outside.
