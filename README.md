@@ -32,7 +32,7 @@ With those materials (e.g. metal, wood and so on), players are able to upgrade t
 ## Game Logic
 
 <p align="center">
-    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/archi.jpg" width="50%"/>
+    <img src="https://github.com/h4x0rMadness/EC500_Triangle/blob/master/pics/archi.jpg" width="70%"/>
 </p>
 
 # Final Product 
