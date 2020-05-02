@@ -26,6 +26,13 @@ open the `CyberWalk.xcodeproj` in `Xcode`
 
 build and run it on your `iOS` device (won't work for `simulator`)
 
+### Adding Targets for the game (iOS)
+
+[Download ARKit Scanner](https://developer.apple.com/documentation/arkit/scanning_and_detecting_3d_objects)
+
+Using ARKit Scanner to scan and save `AR Object files`
+
+Add your `AR Object files` into `CyberWalk.xcodeproj/Assets.xcassets/exampleObjects`
 
 ### CyberWalk Android version
 
@@ -38,13 +45,9 @@ in the path **/EC500_Triangle/CyberWalk_Android/NativeAndroidApp**.
 
 Connect your android phone with computer, and run this application to download apk in your phone
 
-### Unity source code 
+### [Unity source code](https://github.com/CyberWalkec500/objectdetection)
 
-https://github.com/CyberWalkec500/objectdetection
-
-#### check release 
-
-https://github.com/CyberWalkec500/objectdetection/releases
+#### [Check release](https://github.com/CyberWalkec500/objectdetection/releases)
 
 ## Introduction to the Game
 
